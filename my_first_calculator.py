@@ -1,4 +1,4 @@
-
+print("hello world")
 print('Welcome to this calculator!')
 print('It can add, subtract, multiply and divide whole numbers from 0 to 50')
 num1 = int(input('Please choose your first number: '))
